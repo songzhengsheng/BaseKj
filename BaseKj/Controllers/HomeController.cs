@@ -10,6 +10,7 @@ namespace BaseKj.Controllers
     {
         public ActionResult Index()
         {
+            //akjshkjhskfdh
             return View();
         }
 
