@@ -10,7 +10,7 @@ namespace BaseKj.Controllers
     {
         public ActionResult Index()
         {
-            //akjshkjhskfdh
+            //akjshkjhskfdh121221123
             return View();
         }
 
